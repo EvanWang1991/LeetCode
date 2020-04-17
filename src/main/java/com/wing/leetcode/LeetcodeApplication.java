@@ -1,4 +1,4 @@
-package com.wing.demo;
+package com.wing.leetcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.wing.demo;
+package com.wing.leetcode;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
