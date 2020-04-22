@@ -3,7 +3,7 @@
 ### 刷题计划
 
 #### Hash相关
-- [x] [两数之和](/src/main/java/com/wing/leetcode/easy/TwoSum.java)
+- [x] [两数之和](/src/main/java/com/wing/leetcode/hash/TwoSum.java)
 
 #### 链表操作
 - [ ] 两数相加

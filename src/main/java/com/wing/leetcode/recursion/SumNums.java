@@ -1,4 +1,4 @@
-package com.wing.leetcode.medium;
+package com.wing.leetcode.recursion;
 
 /**
  *
@@ -18,6 +18,7 @@ package com.wing.leetcode.medium;
  *
  * 1 <= n <= 10000
  *
+ * https://leetcode-cn.com/problems/qiu-12n-lcof/
  */
 public class SumNums {
 

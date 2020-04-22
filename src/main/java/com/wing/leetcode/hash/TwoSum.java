@@ -1,9 +1,13 @@
-package com.wing.leetcode.easy;
+package com.wing.leetcode.hash;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * https://leetcode-cn.com/problems/two-sum/
+ *
+ */
 public class TwoSum {
 
     public static void main(String[] args) {
